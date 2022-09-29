@@ -2,10 +2,10 @@
 CSCE 5290, Fall 2022
 
 Group 14:
-Amough Mittal
-Arun Sai Kumar Gutala
-Neha Gummalla
-Madi Arnold
+1. Amough Mittal
+2. Arun Sai Kumar Gutala
+3. Neha Gummalla
+4. Madi Arnold
 
 Project Title: Sentimental Analysis for Monarchy in UK
 
